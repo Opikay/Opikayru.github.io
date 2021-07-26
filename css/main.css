@@ -19,30 +19,30 @@ h1 {
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     color: #FF0000;
-    padding-top: 63px;
+    padding-top: 12%;
     font-style: normal;
     font-weight: normal;
-    padding-bottom: 49px;
+    padding-bottom: 6%;
 }
 .Opikay{
-    padding-left: 135px;
+    padding-left: 13%;
     font-size: 36px;
     padding-bottom: 49px;
 }
 .Look_works{
     text-align:right;
-    padding-right: 144px;
+    padding-right: 13%;
     font-size: 28px;
 }
 .Introduction{
-    margin-top: 19px;
+    margin-top: 3%;
     text-align: center;
     font-size: 36px;
-    padding-left: 135px;
-    padding-right: 135px;
+    padding-left: 13%;
+    padding-right: 13%;
 }
 .Storywork{
-    margin-top:49px;
+    margin-top:6%;
     text-align: center;
     font-size: 28px;
 }
